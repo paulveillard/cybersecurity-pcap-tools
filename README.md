@@ -1,5 +1,23 @@
 # Packet Capture (PCAP) Tools
 
+
+## Table of Contents
+
+> * [Linux commands](#linuxcmds)
+> * [Traffic Capture](#capture)
+> * [Traffic Analysis/Inspection](#analysis)
+> * [DNS Utilities](#dnstools)
+> * [File Extraction](#fileextraction)
+> * [Related Projects](#others)
+
+
+### What is PCAP?
+
+
+### What does it do?
+PCAP, or full packet data capture for analysis, does what it says – it captures the entirety of every packet that comprises the network traffic (both metadata and content). If something happens on the network, PCAP knows about it. Whether it is malware moving data around, or staff arranging a private party, it can be captured and then analyzed.
+
+
 Linux commands<a name="linuxcmds"></a>
 --------------------------------------
 

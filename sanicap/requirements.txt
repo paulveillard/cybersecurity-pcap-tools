@@ -1,0 +1,6 @@
+dnet==1.12
+ipaddress==1.0.7
+pcapy==0.10.6
+pypcapfile==0.8.2
+scapy==2.2.0
+wsgiref==0.1.2
